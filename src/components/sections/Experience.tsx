@@ -13,14 +13,14 @@ const experienceData = [
     location: "Mumbai Metropolitan Region"
   },
   {
-    year: "JAN 2026 - PRESENT",
+    year: "JAN 2026 - APR 2026",
     role: "DEVOPS ENGINEER",
     company: "EDUDIAGNO",
     tech: ["CLOUD", "INFRASTRUCTURE", "AUTOMATION"],
     location: "Mumbai, Maharashtra, India"
   },
   {
-    year: "PRESENT",
+    year: "2024 - 2026",
     role: "MASTER OF COMPUTER APPLICATIONS",
     company: "ADITYA INSTITUTE OF MANAGEMENT STUDIES & RESEARCH (AIMSR)",
     tech: ["EDUCATION"],
